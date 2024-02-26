@@ -1,4 +1,4 @@
-# PANCAKE PROBLEM
+#PANCAKE PROBLEM
     - Given a random stack of randomly assorted pancakes of adjacent size 1-10,
     and a actuator of only being able to flip a pancake from position n up, 
     find a solution that will sort the pancakes from size 10->1 (Bottom to top).
